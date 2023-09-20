@@ -1,4 +1,4 @@
-import { getDays , date22, date23} from "../method.js";
+import { getDays, date22, date23 } from "../method.js";
 import { expect } from "chai";
 
 describe("Example testing of module `method`", () => {
@@ -9,5 +9,4 @@ describe("Example testing of module `method`", () => {
   it("date23 should be equal to 364", () => {
     expect(getDays(date23)).to.be.equal(364);
   });
-
 });
