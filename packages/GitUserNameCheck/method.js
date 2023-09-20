@@ -2,6 +2,8 @@ export const date22 = new Date("2022-01-01T00:00:00");
 
 export const date23 = new Date("2023-01-02T00:00:00");
 
+export const dateNow = new Date();
+
 export function getDays(currentDate) {
   let newYear = new Date(currentDate.getFullYear() + 1, 0, 1, 0, 0, 0, 0);
 
