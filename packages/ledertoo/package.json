@@ -1,0 +1,28 @@
+{
+  "name": "TihonPanchenko",
+  "version": "1.0.0",
+  "description": "some test task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Tihon",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "prettier": "^3.0.3",
+    "yarn": "^1.22.19"
+  },
+  "repository": "https://github.com/ledertoo/task_1.git",
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.7.23",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}
