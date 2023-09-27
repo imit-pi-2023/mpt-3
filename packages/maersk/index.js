@@ -1,6 +1,5 @@
-import {getDaysUntilNewYear} from './method.js';
-
+import { getDaysUntilNewYear } from "./method.js";
 
 const daysUntilNewYear = getDaysUntilNewYear();
-    
-console.log(daysUntilNewYear)
+
+console.log(daysUntilNewYear);
