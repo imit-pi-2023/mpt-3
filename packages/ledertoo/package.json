@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "chai": "^4.3.8",
+    "prettier": "^3.0.3",
     "yarn": "^1.22.19"
   },
   "repository": "https://github.com/ledertoo/task_1.git",
