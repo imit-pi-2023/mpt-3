@@ -1,0 +1,21 @@
+{
+  "name": "nikpopo",
+  "version": "1.0.0",
+  "description": "этот замечательный код изумительно быстро считает время до нового года",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test/module.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikpopo/mpt-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikpopo/mpt-3/issues"
+  },
+  "homepage": "https://github.com/nikpopo/mpt-3#readme"
+}
