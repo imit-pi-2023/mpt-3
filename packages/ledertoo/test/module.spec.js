@@ -8,7 +8,7 @@ describe("Example testing of module `module`", () => {
   });
 
   describe("function last_time", () => {
-    it("should return 95, when  last_time(today) called", () => {
+    it("should returns 95, when  last_time(today) called", () => {
       expect(last_time(today)).to.be.equal(95);
     });
   });
