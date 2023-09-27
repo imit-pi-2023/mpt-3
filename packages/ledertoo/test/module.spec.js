@@ -3,7 +3,7 @@ import { dayz, today } from "../index.js";
 import { expect } from "chai";
 
 describe("Example testing of module `module`", () => {
-  it("should export day 2023.01.01 equal to 364", () => {
+  it("should exports day 2023.01.01 equal to 364", () => {
     expect(last_time(dayz)).to.be.equal(364);
   });
 
