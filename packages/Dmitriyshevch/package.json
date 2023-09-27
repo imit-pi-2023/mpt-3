@@ -1,0 +1,21 @@
+{
+  "name": "dmitriyshevch",
+  "version": "1.0.0",
+  "description": "- Установить программу\r - Запустить командой **npm start**\r - Посмотреть сколько осталось дней до ближайшего Нового года = )",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitriyshevch/mpt-3.git"
+  },
+  "author": "DmitriyShevchuk",
+  "type": "module",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Dmitriyshevch/mpt-3/issues"
+  },
+  "homepage": "https://github.com/Dmitriyshevch/mpt-3#readme"
+}
