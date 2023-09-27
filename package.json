@@ -12,5 +12,8 @@
     "test": "lerna run test",
     "prettier": "prettier --check packages",
     "prettier:write": "prettier --write packages"
+  },
+  "dependencies": {
+    "@wdio/cli": "^8.16.15"
   }
 }
