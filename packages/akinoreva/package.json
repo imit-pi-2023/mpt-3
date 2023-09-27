@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "mocha"
   },
-  "type":"module",
+  "type": "module",
   "author": "VA",
   "license": "ISC",
   "devDependencies": {
